@@ -1,0 +1,15 @@
+Package: helppages
+Title: Inspiration for Awesome-Looking R Help Pages
+Version: 0.0.0.9000
+Authors@R: person("Veerle", "Eeftink - van Leemput", email = "veerle@hypebright.nl", role = c("aut", "cre"))
+Description: A small demo package showing how to embed custom badges and
+    other HTML or SVG fanciness into R function help pages, using the same
+    conditional-rendering trick the lifecycle package uses for its stability
+    badges. Includes a plain, functional badge family (pipe-friendliness)
+    and a purely-for-fun one (Hogwarts house crests) to show what's possible.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports:
+    rlang
+RoxygenNote: 7.3.3

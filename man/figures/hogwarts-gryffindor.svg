@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="76" viewBox="0 0 64 76" role="img" aria-label="gryffindor">
+  <defs>
+    <linearGradient id="gryf-shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ae0001"/>
+      <stop offset="100%" stop-color="#740001"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 2 L58 11 V32 C58 48 47 59 32 63 C17 59 6 48 6 32 V11 Z" fill="url(#gryf-shield)" stroke="#eeba30" stroke-width="2"/>
+  <circle cx="32" cy="30" r="11" fill="#eeba30"/>
+  <text x="32" y="37" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" fill="#740001">G</text>
+  <rect x="1" y="65" width="62" height="11" rx="2" fill="#740001" stroke="#eeba30" stroke-width="1"/>
+  <text x="32" y="73" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" font-weight="700" fill="#eeba30">GRYFFINDOR</text>
+</svg>
