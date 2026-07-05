@@ -1,4 +1,4 @@
-# help-pages-examples
+# Help pages, but make them pretty!
 Some inspiration for awesome looking help pages: custom badges, other lesser-known markup, and some best practices 🤌🏻
 
 ## What's in here
